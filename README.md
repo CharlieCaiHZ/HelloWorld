@@ -1,2 +1,3 @@
 # HelloWorld
-The first repository
+
+I like Node.js and coffeescript!
